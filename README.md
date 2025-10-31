@@ -36,10 +36,6 @@ This repository is a personal commitment to mastering DSA through consistent pra
 
 ---
 
-## 📈 Progress Tracker
-
-Track your daily progress in [`Progress_Tracker.md`](./Progress_Tracker.md). Stay consistent and celebrate milestones as you move forward.
-
 ---
 
 ## ⭐ Badges
