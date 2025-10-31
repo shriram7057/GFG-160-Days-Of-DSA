@@ -1,6 +1,6 @@
 # 📘 GFG 160 Days of DSA
 
-<img src="assets/gfg_logo.png" alt="GeeksforGeeks Logo" width="200"/>
+
 
 
 A structured journey through Data Structures & Algorithms inspired by GeeksforGeeks' 160-day challenge. This repository contains Python solutions to daily problems, helping learners build strong foundations and prepare for coding interviews.
