@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://gfg160dsa.netlify.app/">
-    <img 
-      src="https://img.shields.io/badge/VIEW%20DOCUMENTATION-00C2FF?style=for-the-badge&logoColor=white&labelColor=000000"
+    <img
+      src="https://img.shields.io/badge/🚀%20VIEW%20DOCUMENTATION-0F172A?style=for-the-badge&logo=gitbook&logoColor=00F5FF&labelColor=000000&color=06B6D4"
       alt="Documentation"
     />
   </a>
